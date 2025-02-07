@@ -7,7 +7,15 @@ link-citations: false
 citations-hover: false
 ---
 
-Algorithmic Fairness: Choices, Assumptions, and Definitions: [@mitchellAlgorithmicFairnessChoices2021]
+Review Article:
+
+**Recent Challenges in Actuarial Science**
+
+[@embrechtsRecentChallengesActuarial2022]
+
+References:
+
+**Algorithmic Fairness: Choices, Assumptions, and Definitions**: [@mitchellAlgorithmicFairnessChoices2021]
 
 -   Summary: This article gets into how bias and inconsistency effects predictive-based decision making, which is key to the actuarial profession. Many high-stakes fields use these kinds of models to make decisions, so having an unreliable or unfair model could have very serious impacts on real people.
 
@@ -19,7 +27,7 @@ Algorithmic Fairness: Choices, Assumptions, and Definitions: [@mitchellAlgorithm
 
     -   I also found that I couldn't follow some of the notation used, but the paper did not explain what some of it meant at a level I could understand. A notation guide with definitions would be very helpful.
 
-Probabilistic Forecasting: [@gneitingProbabilisticForecasting2014]
+**Probabilistic Forecasting**: [@gneitingProbabilisticForecasting2014]
 
 -   Summary: This article discusses how we can use available information to create predictive distributions of future events. There are different calibration methods to use to try and get the distributions as accurate as possible, as well as methods to assess the calibrations accuracy.
 
