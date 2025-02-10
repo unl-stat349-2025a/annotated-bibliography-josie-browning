@@ -1,0 +1,30 @@
+---
+title: "annotated bib"
+author: "Josie Browning"
+date: "2025-02-10"
+output: html_document
+---
+
+**Algorithmic Fairness**: Choices, Assumptions, and Definitions: [@mitchellAlgorithmicFairnessChoices2021]
+
+Summary: This article gets into how bias and inconsistency effects predictive-based decision making, which is key to the actuarial profession. Many high-stakes fields use these kinds of models to make decisions, so having an unreliable or unfair model could have very serious impacts on real people.
+
+Reliability: My chosen article introduces an emerging discussion in the actuarial world: the invention of the Actuary of the Fifth Kind, who is a "critical and socially responsible financial decision maker". Social responsibility includes the concern of fairness and inconsistency of statistical learning models. The authors of the article claimed no financial bias in the disclosure statement, and the research was funding by Harvard-MIT Ethics and Governance of Artificial Intelligence Initiative. I view this as a reliable source, and given the department, I expect ethical research and respect to the subject.
+
+Missing Information:
+
+-   There are some topics in the paper I am lacking introduction knowledge on, specifically sufficiency and utility maximization.
+
+-   I also found that I couldn't follow some of the notation used, but the paper did not explain what some of it meant at a level I could understand. A notation guide with definitions would be very helpful.
+
+**Probabilistic Forecasting**: [@gneitingProbabilisticForecasting2014]
+
+Summary: This article discusses how we can use available information to create predictive distributions of future events. There are different calibration methods to use to try and get the distributions as accurate as possible, as well as methods to assess the calibrations accuracy.
+
+Reliability: The relates to my chosen article through actuary's use of probabilistic forecasting in life insurance (mortality rates), and auto/property insurance (likelihood of loss). Increasing accuracy and decreasing bias in our models using different calibration methods is a main focus of my article. The funding for this article was from the European Union Seventh Framework Program, which I trust to be a reliable source of research. This article was published in 2014, so now being a decade old could have slightly outdated information, especially with large events like COVID-19 making changes to businesses.
+
+Missing Information:
+
+-   There is some advanced discussion of distribution estimation, transformations, and elicitable functionals that was beyond my understanding.
+
+-   I am interested to know how these calibration methods play at in real life, and how does theory compare to practice.
