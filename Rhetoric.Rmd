@@ -1,0 +1,36 @@
+---
+title: "Rhetoric"
+author: "Josie Browning"
+date: "2025-02-23"
+output: html_document
+bibliography: references.bib
+---
+
+Rhetorical Analysis
+
+Within the introduction of the article, the authors establish their argument in the historical development of actuarial science. They focus on the Actuary of the Fifth Kind, which is bringing a shift of social responsibility into a field with deep roots in mathematics and data driven foundations [@embrechts2022, p. 120]. I view this as the authors' credibility in the knowledge of the actuarial field, and I also noted the numerous references made to others' work if readers want further information on any given topic covered in the article.
+
+I do think that there is an obvious stance that the authors take on the evolution of the field and the emergence of the Actuary of the Fifth Kind. The general opinion is that this transformation is preferred (ethically and professionally) over traditional methods [@embrechts2022, p. 121]. Although I personally agree with this stance, I can see counterarguments made that modern challenges can still be handled using traditional methods. Many of the criticisms made in the article focus on this point, specifically pointing out over reliance of MLE in risk modeling and general models not accurately capturing modern risk [@embrechts2022, p. 123]. Their main claim was that machine learning and other advanced technology is necessary to handle this kind of changing landscape, and they made a strong persuasive argument by comparing different methods of modeling to handle the modern issue of cyber risk [@embrechts2022, p. 124].
+
+The authors further their credibility with their claim with an abundance of empirical evidence. This was something I struggled with slightly at first since they use very technical language and extensive notation that I was not initially familiar with. There is definitely a baseline expectation of statistical and actuarial knowledge that is expected of the reader. That being said, the main arguments made for what action should be taken to address emerging concerns were easy to understand, and the authors explained the urgency and necessity clearly.
+
+Overall, the rhetorical strategy in the article was persuasive in its claim that new technology and methods are useful and needed to address new challenges in the actuarial field. Although the claim was partially based on an opinion of the field, it was still strongly defended and cited with solid evidence. Moving forward from this article would be learning about implementation of statistical techniques and using these model changes in a practical way.
+
+Reference:
+
+Annual Review Articles: Recent Challenges in Actuarial Science                                      @article{embrechts2022,
+  title = {RecentChallengesinActuarialScience}, 
+  volume = {9}, 
+  issn = {2326-8298, 2326-831X}, 
+  url = {<https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-040120-030244>}, 
+  doi = {10.1146/annurev-statistics-040120-030244}, 
+  abstract = {For centuries, mathematicians and, later, statisticians, have found natural research and employment opportunities in the realm of insurance. By definition, insurance offers financial cover against unforeseen events that involve an important component of randomness, and consequently, probability theory and mathematical statistics enter insurance modeling in a fundamental way. In recent years, a data deluge, coupled with ever-advancing information technology and the birth of data science, has revolutionized or is about to revolutionize most areas of actuarial science as well as insurance practice. We discuss parts of this evolution and, in the case of non-life insurance, show how a combination of classical tools from statistics, such as generalized linear models and, e.g., neural networks contribute to better understanding and analysis of actuarial data. We further review areas of actuarial science where the cross fertilization between stochastics and insurance holds promise for both sides. Of course, the vastness of the field of insurance limits our choice of topics; we mainly focus on topics closer to our main areas of research.},
+  pages = {119--140}, 
+  journaltitle = {Annual Review of Statistics and Its Application}, 
+  author = {Embrechts, Paul}, 
+  author = {Wüthrich, Mario V.} 
+  date = {2022-07}, 
+  langid = {english}, 
+  file = {/Users/josephinebrowning/Documents/Recent Challenges in Actuarial Science .pdf}, 
+}
+
