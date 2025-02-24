@@ -2,7 +2,7 @@
 title: "Rhetoric"
 author: "Josie Browning"
 date: "2025-02-23"
-output: html_document
+output: pdf_document
 bibliography: references.bib
 ---
 
@@ -17,20 +17,4 @@ The authors further their credibility with their claim with an abundance of empi
 Overall, the rhetorical strategy in the article was persuasive in its claim that new technology and methods are useful and needed to address new challenges in the actuarial field. Although the claim was partially based on an opinion of the field, it was still strongly defended and cited with solid evidence. Moving forward from this article would be learning about implementation of statistical techniques and using these model changes in a practical way.
 
 Reference:
-
-Annual Review Articles: Recent Challenges in Actuarial Science                                      @article{embrechts2022,
-  title = {RecentChallengesinActuarialScience}, 
-  volume = {9}, 
-  issn = {2326-8298, 2326-831X}, 
-  url = {<https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-040120-030244>}, 
-  doi = {10.1146/annurev-statistics-040120-030244}, 
-  abstract = {For centuries, mathematicians and, later, statisticians, have found natural research and employment opportunities in the realm of insurance. By definition, insurance offers financial cover against unforeseen events that involve an important component of randomness, and consequently, probability theory and mathematical statistics enter insurance modeling in a fundamental way. In recent years, a data deluge, coupled with ever-advancing information technology and the birth of data science, has revolutionized or is about to revolutionize most areas of actuarial science as well as insurance practice. We discuss parts of this evolution and, in the case of non-life insurance, show how a combination of classical tools from statistics, such as generalized linear models and, e.g., neural networks contribute to better understanding and analysis of actuarial data. We further review areas of actuarial science where the cross fertilization between stochastics and insurance holds promise for both sides. Of course, the vastness of the field of insurance limits our choice of topics; we mainly focus on topics closer to our main areas of research.},
-  pages = {119--140}, 
-  journaltitle = {Annual Review of Statistics and Its Application}, 
-  author = {Embrechts, Paul}, 
-  author = {Wüthrich, Mario V.} 
-  date = {2022-07}, 
-  langid = {english}, 
-  file = {/Users/josephinebrowning/Documents/Recent Challenges in Actuarial Science .pdf}, 
-}
 
